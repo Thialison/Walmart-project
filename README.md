@@ -1,36 +1,36 @@
 # Walmart-project
 
 
-###### Baixando o projeto
-
+Baixando o projeto
+----------------------------------------------------------------------------------------
 git clone https://github.com/Thialison/practice-automation-capybara.git
 
 
-##### Executar projeto Frontend
+Executar projeto Frontend
 ----------------------------------------------------------------------------------------
 Acessar o diretório "Frontend"
 
 
-###### Instalando dependências
+Instalando dependências
 ----------------------------------------------------------------------------------------
 bundle
 
 
-###### Executando projeto
+Executando projeto
 ----------------------------------------------------------------------------------------
 cucumber
 
-##### Executar projeto Backend
+Executar projeto Backend
 ----------------------------------------------------------------------------------------
 Acessar a Backend "Backend"
 
 
-###### Instalando dependências
+Instalando dependências
 ----------------------------------------------------------------------------------------
 bundle
 
 
-###### Executando projeto
+Executando projeto
 ----------------------------------------------------------------------------------------
 cucumber
 
