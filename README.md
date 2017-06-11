@@ -1,45 +1,31 @@
 # Walmart-project
 
-Baixar o Repositorio
-_______________________________________________________________
+####Baixar o Repositorio
 git clone
+-------------------------------------
 
 
-Executar projeto FrontEnd
-_________________________________________________________________
-
-
------------------------------------------------------------------
+####Executar projeto FrontEnd
 Acessar a Backend "FrontEnd"
+-------------------------------------
 
-
-Instalando dependências
-_______________________________________________________________
-
+####Instalando dependências
 bundle
+-------------------------------------
 
-
-Executando Projeto
-____________________________________________________
-
+####Executando Projeto
 cucumber
+-------------------------------------
 
-
-Executar projeto Backend
-_________________________________________________________________
-
+####Executar projeto Backend
 Acessar a deiretório "Backend"
+-------------------------------------
 
-
-Instalando dependências
-_______________________________________________________________
-
+####Instalando dependências
 bundle
+-------------------------------------
 
-
-Executando Projeto
-____________________________________________________
-
+####Executando Projeto
 cucumber
 
 
