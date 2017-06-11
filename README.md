@@ -1,54 +1,37 @@
 # Walmart-project
 
 
-Baixando o projeto
-----------------------------------------------------------------------------------------
+###### Baixando o projeto
+
 git clone https://github.com/Thialison/practice-automation-capybara.git
 
 
-
-Instalando dependências
+##### Executar projeto Frontend
 ----------------------------------------------------------------------------------------
-bundle install
+Acessar o diretório "Frontend"
 
 
-
-Configurando Browser
+###### Instalando dependências
 ----------------------------------------------------------------------------------------
-Baixar chromedriver.exe e colocar no diretório C:\Ruby23-x64\bin
+bundle
 
 
-
-Executando projeto
+###### Executando projeto
 ----------------------------------------------------------------------------------------
 cucumber
 
-##### Baixar o Repositorio
-git clone
--------------------------------------
+##### Executar projeto Backend
+----------------------------------------------------------------------------------------
+Acessar a Backend "Backend"
 
 
-####Executar projeto FrontEnd
-Acessar a Backend "FrontEnd"
--------------------------------------
-
-####Instalando dependências
+###### Instalando dependências
+----------------------------------------------------------------------------------------
 bundle
--------------------------------------
 
-####Executando Projeto
-cucumber
--------------------------------------
 
-####Executar projeto Backend
-Acessar a deiretório "Backend"
--------------------------------------
-
-####Instalando dependências
-bundle
--------------------------------------
-
-####Executando Projeto
+###### Executando projeto
+----------------------------------------------------------------------------------------
 cucumber
 
 
