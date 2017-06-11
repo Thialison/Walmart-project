@@ -1,6 +1,6 @@
 # Walmart-project
 
-####Baixar o Repositorio
+#### Baixar o Repositorio
 git clone
 -------------------------------------
 
