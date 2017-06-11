@@ -1,0 +1,7 @@
+---
+VALIDO:
+    USUARIO: tomsmith
+    SENHA:  SuperSecretPassword!
+INVALIDO:
+    USUARIO_INVALIDO: teste
+    SENHA_INVALIDA: teste

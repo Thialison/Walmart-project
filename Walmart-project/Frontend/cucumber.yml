@@ -1,0 +1,2 @@
+default: -p relatorio --no-source --color --format pretty
+relatorio: -v -f html -o report.html
