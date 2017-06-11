@@ -3,8 +3,7 @@
 
 Baixando o projeto
 ----------------------------------------------------------------------------------------
-git clone https://github.com/Thialison/practice-automation-capybara.git
-
+git clone https://github.com/Thialison/Walmart-project.git
 
 Executar projeto Frontend
 ----------------------------------------------------------------------------------------
